@@ -19,8 +19,12 @@ o	JavaScript handles the dynamic aspects, while HTML and CSS ensure proper forma
 #### •	Dynamic Data Processing: Efficiently handles and exports graphical data.
 #### •	Reusable: Can be easily integrated into various projects.
 #### •	Enhanced Formatting: Utilizes HTML and CSS for improved presentation.
+
 ### Intallation
 To integrate PDFExport.js into your project, follow these steps:
 1.	Download or clone the PDFExport.js file from GitHub.
 2.	Include the PDFExport.js script in the header or footer of your page.
 3.	Assign the id "PDFExport" to the div element you wish to export.
+
+Example:
+![Code Example](https://github.com/BezaleelSolutions/PDFExport/blob/main/PDFExport.png)
